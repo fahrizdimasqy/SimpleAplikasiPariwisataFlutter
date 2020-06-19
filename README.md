@@ -1,10 +1,10 @@
 # AplikasiPariwisataFlutter
 
-A new Flutter project.
+aplikasi Pariwisata Sederhana Menggunakan Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+aplikasi ini dibuat untuk berlatih
 
 A few resources to get you started if this is your first Flutter project:
 
