@@ -6,7 +6,11 @@ aplikasi Pariwisata Sederhana Menggunakan Flutter
 
 aplikasi ini dibuat untuk berlatih
 
+## Screenshot
 ![alt text](https://github.com/fahrizdimasqy/SimpleAplikasiPariwisataFlutter/blob/master/images/Screenshot%20from%202020-06-19%2017-14-13.png)
+![alt text](https://github.com/fahrizdimasqy/SimpleAplikasiPariwisataFlutter/blob/master/images/Screenshot%20from%202020-06-19%2017-15-05.png)
+![alt text](https://github.com/fahrizdimasqy/SimpleAplikasiPariwisataFlutter/blob/master/images/Screenshot%20from%202020-06-19%2017-15-12.png)
+![alt text](https://github.com/fahrizdimasqy/SimpleAplikasiPariwisataFlutter/blob/master/images/Screenshot%20from%202020-06-19%2017-15-17.png)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
